@@ -1,0 +1,56 @@
+.titulo-principal__numero
+  background-color: $color-secundario
+
+.bloque-texto-a.color-primario
+  background-color: #F6F6F6
+
+.titulo-segundo:after
+  border-left: solid 50px $color-primario
+
+.tarejeta--gradiente
+  background-image: linear-gradient(to right bottom, #c9e7ff, #c4f0fc, #caf7f4, #dafcea, #f0ffe3)
+  *
+    color: #3651A3
+
+  .divisor
+    height: 1px
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%233651A3FF' stroke-width='1' stroke-dasharray='4%2c4' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e")
+
+.tabla-a.color-primario
+  td
+    background-color: $white
+
+.color-acento-botones--claro
+  background-color: #FFF7D9
+.color-primario--claro
+  background-color: #D8F8BC
+
+
+.text-blue
+  color: #3651A3
+
+.tarjeta-des
+  position: relative
+  &> *
+    position: relative
+  &:before
+    content: ''
+    display: block
+    width: 70%
+    height: 100%
+    position: absolute
+    top: 0
+    right: 0
+    background-color: #FFF7D9
+    border-radius: 20px
+
+.lista-tarjetas
+  li
+    margin-bottom: 10px
+    span
+      padding: 10px 20px
+      display: inline-block
+      background-color: #FFD947
+      border-radius: 10px
+    &:last-child
+      margin-bottom: 0
