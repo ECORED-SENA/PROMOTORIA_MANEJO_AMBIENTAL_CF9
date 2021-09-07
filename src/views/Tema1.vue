@@ -77,28 +77,28 @@
 
       .row.align-items-end.mb-5
         .col-4
-          h3 Entre los métodos de evaluación de desempeño más usados se encuentran:
+          h2 Entre los métodos de evaluación de desempeño más usados se encuentran:
 
         .col-6
           img(src='@/assets/curso/t1-09.svg')
 
-      LineaTiempoC.color-secundario(text-small)
-        .row.align-items-center(titulo="Métodos de evaluación de desempeño")
+      LineaTiempoCB.color-secundario
+        .row.align-items-center(titulo="Métodos de evaluación<br>de desempeño")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-10.svg')
           .col
             p.mb-0 Los métodos hacen referencia a un proceso ordenado y sistemático que permite proceder para llegar a un resultado determinado. Cuando se trata de la evaluación de desempeño, este establece una secuencialidad fundamental, en la medida que, posibilita hacer un seguimiento adecuado a los colaboradores de las organizaciones. 
-        .row.align-items-center(titulo="Método de escala gráfica")
+        .row.align-items-center(titulo="Método de<br>escala gráfica")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-11.svg')
           .col
             p.mb-0 Es el de mayor uso y divulgación, permite la aplicación de un formulario de doble entrada donde las líneas horizontales representan los factores de evaluación de desempeño y las columnas verticales representan los grados de variación de tales factores.
-        .row.align-items-center(titulo="Método de elección forzada")
+        .row.align-items-center(titulo="Método de<br>elección forzada")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-12.svg')
           .col
             p.mb-0 Se evalúa al empleado a través de la asignación de frases descriptivas establecidas previamente, buscando que el evaluado deba elegir de manera forzada una y relacionarla con la persona en cuestión.
-        .row.align-items-center(titulo="Método de investigación de campo")
+        .row.align-items-center(titulo="Método de<br>investigación de campo")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-13.svg')
           .col
@@ -118,12 +118,12 @@
                     td.text-small El desempeño definido en la evaluación inicial es evaluado con mayor profundidad mediante preguntas formuladas del especialista o asesor al jefe.
                     td.text-small Tras el análisis del desempeño viene la elaboración de un plan de acción. 
 
-        .row.align-items-center(titulo="Método comparación por pares")
+        .row.align-items-center(titulo="Método comparación<br>por pares")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-14.svg')
           .col
             p.mb-0 Permite comparar los empleados en turnos de a dos, anotándose en la columna de la derecha aquél que se considera que tiene mejor desempeño. El número de veces que un evaluado es considerado superior a otro se suma y constituye un índice.
-        .row.align-items-center(titulo="Evaluación en 360 grados")
+        .row.align-items-center(titulo="Evaluación en<br>360 grados")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-15.svg')
           .col
@@ -191,8 +191,10 @@
 </template>
 
 <script>
+import LineaTiempoCB from '../components/LineaTiempoC'
 export default {
   name: 'Tema1',
+  components: { LineaTiempoCB },
   data: () => ({
     // variables de vue
   }),
