@@ -90,12 +90,12 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -126,21 +126,21 @@ export default {
   referencias: [
     {
       referencia:
-        'Agencia Nacional de Evaluación de la Calidad y Acreditación (s.f.). Plan de mejoras.',
+        'Agencia Nacional de Evaluación de la Calidad y Acreditación (s.f.). Plan de mejoras. ',
       link:
-        'http://www.uantof.cl/public/docs/universidad/direccion_docente/15_elaboracion_plan_de_mejoras.pdf',
+        'http://www.uantof.cl/public/docs/universidad/direccion_docente/15_elaboracion_plan_de_mejoras.pdf ',
     },
     {
       referencia:
-        'Nueva ISO 9001:2015. (2020). ¿Cuál es el sistema de calidad utilizado en las entidades de formación?..',
+        'Nueva ISO 9001:2015. (2020). ¿Cuál es el sistema de calidad utilizado en las entidades de formación? ',
       link:
-        'https://www.nueva-iso-9001-2015.com/2020/08/cual-es-el-sistema-de-calidad-utilizado-en-las-entidades-de-formacion/',
+        'https://www.nueva-iso-9001-2015.com/2020/08/cual-es-el-sistema-de-calidad-utilizado-en-las-entidades-de-formacion/ ',
     },
     {
       referencia:
         'Superintendencia de sociedades (2015). Acciones correctivas, preventivas, de mejora. ',
       link:
-        'https://www.supersociedades.gov.co/nuestra_entidad/Planeacion/SistemaIntegradode%20Gestion/Documentos%20Calidad/DOCUMENTOS/GC-PR-002%20ACCIONES%20CTVAS.pdf',
+        'https://www.supersociedades.gov.co/nuestra_entidad/Planeacion/SistemaIntegradode%20Gestion/Documentos%20Calidad/DOCUMENTOS/GC-PR-002%20ACCIONES%20CTVAS.pdf ',
     },
   ],
   glosario: [

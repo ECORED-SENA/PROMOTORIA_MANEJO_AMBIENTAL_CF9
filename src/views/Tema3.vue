@@ -21,7 +21,7 @@
     #3-1.titulo-segundo
       h2 3.1 Valoración del proceso formativo
 
-    p.mb-5 Valorar los procesos formativos, permite establecer una secuencialidad que posibilite que al interior de la enseñanza-aprendizaje se detecten las fortalezas y posibilidades de mejora. En esta valoración se puede considerar la evaluación formativa, la cual ofrece una iniciativa de conducción del propio proceso de aprendizaje y de una profundización, de un cambio, de una consolidación de la formación. 
+    p.mb-5 Valorar los procesos formativos, permite establecer una secuencialidad que posibilite que al interior de la enseñanza-aprendizaje se detecten las fortalezas y posibilidades de mejora. En esta valoración se puede considerar la evaluación formativa, la cual ofrece una iniciativa de conducción del propio proceso de aprendizaje, a partir de la profundización, cambio y consolidación de la formación.
 
     p
       b A continuación, se puede conocer las características de la evaluación formativa: 
@@ -30,7 +30,7 @@
       ul.lista-ul.mb-0
         li 
           i.fas.fa-check.text-blue
-          | Se centra su intervención en los procesos de mejora.
+          | Centra su intervención en los procesos de mejora.
         li 
           i.fas.fa-check.text-blue
           | Su función es orientadora, reguladora y motivadora.
@@ -42,7 +42,7 @@
           | Permite ajustar o reforzar ciertas acciones y tener claridad sobre la trayectoria de aprendizaje.
  
     p
-      b Existen diferentes tipos de técnicas que son utilizadas dentro de los procesos de evaluación para poder identificar en que procesos específicamente se están presentando falencias, estos son algunas de ellas: 
+      b Existen diferentes tipos de técnicas que son utilizadas dentro de los procesos de evaluación para poder identificar en qué procesos específicamente se están presentando falencias, estas son algunas de ellas: 
 
     .row.justify-content-around.align-items-center.tarjeta-des
       .col-7.col-md-5.mb-4.mb-md-0
@@ -73,7 +73,7 @@
     #3-2.titulo-segundo
       h2 3.2 Estructurar acciones de mejora
 
-    p.mb-5 Se considera una acción de mejora a todas aquellas acciones que incrementan la capacidad que tiene una organización para cumplir ciertos requisitos. Estas acciones están encaminadas al mejor funcionar, a la rápida solución de problemas. Para determinar estas acciones se tiene que basar en unos hallazgos, los cuales se pueden clasificar de la siguiente manera: 
+    p.mb-5 Se considera una acción de mejora a todas aquellas acciones que incrementan la capacidad que tiene una organización para cumplir ciertos requisitos. Estas acciones están encaminadas al mejor funcionamiento y a la rápida solución de problemas. Para determinar estas acciones se tiene que basar en unos hallazgos, los cuales se pueden clasificar de la siguiente manera: 
 
     .row.mb-4
       .col-md-6.col-xl-4.mb-4
@@ -107,13 +107,13 @@
             .col-6
               img(src='@/assets/curso/t3-06.svg')
           h3 Observación: 
-          p.mb-0 Se constituye como una no conformidad potencial 
+          p.mb-0 Se constituye como una no conformidad potencial.
 
       .col-md-6.col-xl-4.mb-4
         .color-primario--claro.h-100.p-5
           .row.mb-3
             .col-6
-              img(src='@/assets/curso/t3-05.svg')
+              img(src='@/assets/curso/t3-07.svg')
           h3 Recomendación: 
           p.mb-0 Se constituye como una oportunidad de mejora. 
 

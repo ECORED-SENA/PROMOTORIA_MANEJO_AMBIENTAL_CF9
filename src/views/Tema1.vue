@@ -14,7 +14,7 @@
           img(src='@/assets/curso/t1-01.svg')
         .col-lg
           .bloque-texto-a__texto.p-4
-            p Actualmente es fundamental realizar proceso de evaluación de manera permanente, pues en todo momento el desempeño de las cosas bien sea un objeto, una organización o una persona en particular. Es por esto que existen diferentes técnicas para valorar y medir en el tiempo el desempeño en cada una de las actividades programadas.
+            p Actualmente es fundamental realizar un proceso de evaluación de manera permanente, pues en todo momento el desempeño de las cosas es aplicable, bien sea en un objeto, una organización o una persona de manera particular. Es por esto que existen diferentes técnicas para valorar y medir en el tiempo el desempeño en cada una de las actividades programadas.
 
     Separador
 
@@ -122,7 +122,7 @@
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-14.svg')
           .col
-            p.mb-0 Permite comprar los empleados en turnos de a dos, anotándose en la columna de la derecha aquél que se considera que tiene mejor desempeño. El número de veces que un evaluado es considerado superior a otro se suma y constituye un índice.
+            p.mb-0 Permite comparar los empleados en turnos de a dos, anotándose en la columna de la derecha aquél que se considera que tiene mejor desempeño. El número de veces que un evaluado es considerado superior a otro se suma y constituye un índice.
         .row.align-items-center(titulo="Evaluación en 360 grados")
           .col-2.mb-4.mb-md-0
             img(src='@/assets/curso/t1-15.svg')
@@ -139,7 +139,7 @@
     .tarjeta.color-acento-botones--claro.p-5.mb-5
       .row.align-items-center.justify-content-around
         .col-auto.mb-5.mb-lg-0
-          h3.mb-4 Los planes de acción están conformados por: 
+          h3.mb-4.text-blue Los planes de acción están conformados por: 
           ul.lista-ul.mb-0
             li 
               i.fas.fa-check.text-blue
@@ -162,15 +162,14 @@
         .col-4
           img(src='@/assets/curso/t1-16.svg')
 
-    p.mb-5 Así mismo, existen diferentes tipos de planes de acción los cuales se representan en la siguiente tabla 2: 
+    p.mb-5 Así mismo, existen diferentes tipos de planes de acción los cuales se representan en la siguiente tabla: 
 
-    .titulo-sexto.color-secundario
-      h4.mb-0.d-inline-block.me-2 Tabla 1
-      span Tipos de planes de acción.
-
+    .titulo-sexto.color-acento-contenido
+      h4.mb-0.d-inline-block.me-2 Tipos de planes de acción.
 
     .tabla-a.color-primario
       table
+        caption Nota. SENA, (2021)
         thead
           tr
             th PLAN DE ACCIÓN

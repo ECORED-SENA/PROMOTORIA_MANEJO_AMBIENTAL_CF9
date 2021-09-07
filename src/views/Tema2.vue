@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Planes de mejora: 
+      h1 Planes de mejora
 
     .bloque-texto-a.color-primario.p-4.mb-4
       .row.align-items-center.justify-content-between
@@ -18,12 +18,12 @@
 
     .row.justify-content-center
       .col-10
-        h4.mb-0.text-blue.text-center Las medidas de mejora deben ser sistemáticas, no improvisadas ni aleatorias, por lo que deben planificarse cuidadosamente, llevarse a la práctica y constatar sus efectos. 
+        h4.mb-0.text-blue Las medidas de mejora deben ser sistemáticas, no improvisadas ni aleatorias, por lo que deben planificarse cuidadosamente, llevarse a la práctica y constatar sus efectos. 
 
     Separador
 
     #2-1.titulo-segundo
-      h2 2.1. Estrategia
+      h2 2.1 Estrategia
 
     p.mb-5 Son las diferentes series de acciones muy meditadas, encaminadas hacia un fin determinado. En este sentido, el plan de mejora a través de una estrategia clara y pertinente, permite: 
 
@@ -63,20 +63,30 @@
     Separador
 
     #2-2.titulo-segundo
-      h2 2.2. Estrategia
+      h2 2.2 Estrategia
 
-    p.mb-5 En los planes de mejora, las metas hacen referencia a las acciones finales que se deben llevar a cabo para el cumplimiento de la estrategia. A continuación en la figura 1, se podrá conocer los pasos establecidos: 
+    p.mb-5 En los planes de mejora, las metas hacen referencia a las acciones finales que se deben llevar a cabo para el cumplimiento de la estrategia. A continuación, en la figura se podrá conocer los pasos establecidos: 
 
     .row.justify-content-center
       .col-sm-10.col-md-8.col-lg-6
-        img(src='@/assets/curso/t2-03.svg')
+
+        .titulo-sexto.color-acento-contenido.mb-5
+          h4.mb-0.d-inline-block.me-2 Elaboración plan de mejora.
+        figure
+          img(src='@/assets/curso/t2-03.svg')
+          figcaption.mt-5 Nota. SENA, (2021)
+
 
     Separador
 
     #2-3.titulo-segundo
-      h2 2.3. Indicadores
+      h2 2.3 Indicadores
 
     p.mb-5 Los indicadores son instrumentos que aportan información relevante para evaluar el desempeño y en qué medida se están cumpliendo los objetivos estratégicos de las diferentes áreas o departamentos de la organización. En este sentido, un indicador de evaluación se puede utilizar para medir el desempeño global del colaborador. A continuación, se conocerán las características más representativas de estos: 
+
+
+    .titulo-sexto.color-acento-contenido.mb-4
+      h4.mb-0.d-inline-block.me-2 Características de indicadores de desempeño.
 
     .row.align-items-center.tarjeta-des.mb-5
       .col-7.col-md-5.mb-4.mb-md-0
@@ -96,10 +106,10 @@
           li.mb-0
             span Determinan los resultados de los procesos en relación a los objetivos marcados inicialmente.
 
-    h3.text-blue Los indicadores también se pueden clasificar en categorías de la siguiente manera: 
+    h3.mb-5.text-blue Los indicadores también se pueden clasificar en categorías de la siguiente manera: 
 
     .tarjeta.tarjeta--gris.p-4.mb-5
-      LineaTiempoC.color-secundario(text-small)
+      LineaTiempoC.color-secundario()
         .row.justify-content-center.align-items-center(titulo="1. De eficacia")
           .col-9.col-md-6
             p.mb-0 Se relacionan con la capacidad y/o acierto en la consecución de los objetivos de los procesos.
