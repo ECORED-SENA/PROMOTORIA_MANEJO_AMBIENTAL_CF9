@@ -65,13 +65,13 @@
     #2-2.titulo-segundo
       h2 2.2 Estrategia
 
-    p.mb-5 En los planes de mejora, las metas hacen referencia a las acciones finales que se deben llevar a cabo para el cumplimiento de la estrategia. A continuación, en la figura se podrá conocer los pasos establecidos: 
+    p.mb-5 En los planes de mejora, las metas hacen referencia a las acciones finales que se deben llevar a cabo para el cumplimiento de la estrategia. A continuación, en la siguiente figura se podrá conocer los pasos establecidos: 
 
     .row.justify-content-center
       .col-sm-10.col-md-8.col-lg-6
 
-        .titulo-sexto.color-acento-contenido.mb-5
-          h4.mb-0.d-inline-block.me-2 Elaboración plan de mejora.
+        .titulo-sexto.color-acento-botones.mb-5
+          span Elaboración plan de mejora.
         figure
           img(src='@/assets/curso/t2-03.svg')
           figcaption.mt-5 Nota. SENA, (2021)
@@ -85,8 +85,8 @@
     p.mb-5 Los indicadores son instrumentos que aportan información relevante para evaluar el desempeño y en qué medida se están cumpliendo los objetivos estratégicos de las diferentes áreas o departamentos de la organización. En este sentido, un indicador de evaluación se puede utilizar para medir el desempeño global del colaborador. A continuación, se conocerán las características más representativas de estos: 
 
 
-    .titulo-sexto.color-acento-contenido.mb-4
-      h4.mb-0.d-inline-block.me-2 Características de indicadores de desempeño.
+    .titulo-sexto.color-acento-botones.mb-4
+      span Características de indicadores de desempeño
 
     .row.align-items-center.tarjeta-des.mb-5
       .col-7.col-md-5.mb-4.mb-md-0

@@ -65,6 +65,13 @@
 .tabs-a__tab
   background-color: $color-primario
 .barra-avance__boton--regresar
-  &:hover
+  &:hover,&:active,&:visited
     span
       color: $white !important
+
+
+.aside-menu__menu__item--sub-menu--active .aside-menu__menu__item__lnk::before, .aside-menu__menu__item--sub-menu--active .aside-menu__sec-menu__item__lnk::before
+  background-color: $color-acento-botones !important
+
+.titulo__template--a::before
+  background-color: $color-acento-botones !important

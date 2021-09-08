@@ -164,8 +164,8 @@
 
     p.mb-5 Así mismo, existen diferentes tipos de planes de acción los cuales se representan en la siguiente tabla: 
 
-    .titulo-sexto.color-acento-contenido
-      h4.mb-0.d-inline-block.me-2 Tipos de planes de acción.
+    .titulo-sexto.color-acento-botones
+      span Tipos de planes de acción
 
     .tabla-a.color-primario
       table

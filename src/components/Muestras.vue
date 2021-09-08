@@ -32,7 +32,7 @@ div.mb-5
 
   //- .titulo-sexto debe ir acompañado de una de una de estas clases => 
   //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-  .titulo-sexto.color-acento-contenido
+  .titulo-sexto.color-acento-botones
     h5 Título de sexto nivel, 16pt
     span subtitulo
 
