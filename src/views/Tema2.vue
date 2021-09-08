@@ -71,7 +71,7 @@
       .col-sm-10.col-md-8.col-lg-6
 
         .titulo-sexto.color-acento-botones.mb-5
-          span Elaboración plan de mejora.
+          span Elaboración plan de mejora
         figure
           img(src='@/assets/curso/t2-03.svg')
           figcaption.mt-5 Nota. SENA, (2021)
