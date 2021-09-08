@@ -10,12 +10,12 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Indique la respuesta correcta.
+          h2 Indique la respuesta correcta
         p.mb-4 Afianzar algunos de los conceptos sobre los procesos de evaluación del desempeño y las acciones de mejora. 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Seleccione la respuesta correcta según lo estipulado en el párrafo anterior. 
+              p.fw-bold.mb-0 Apreciado participante, a continuación encontrará una actividad didáctica que le ayudará a evaluar la comprensión de los conceptos y aprendizajes del presente componente de formación.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad-1/index.html')" target="_blank")
                 span Realizar
