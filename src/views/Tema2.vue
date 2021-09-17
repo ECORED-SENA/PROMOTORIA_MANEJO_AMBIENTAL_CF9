@@ -70,7 +70,7 @@
     .row.justify-content-center
       .col-sm-10.col-md-8.col-lg-6
 
-        .titulo-sexto.color-acento-botones.mb-5
+        .titulo-sexto.color-secundario.mb-5
           span Elaboración plan de mejora
         figure
           img(src='@/assets/curso/t2-03.svg')
@@ -85,7 +85,7 @@
     p.mb-5 Los indicadores son instrumentos que aportan información relevante para evaluar el desempeño y en qué medida se están cumpliendo los objetivos estratégicos de las diferentes áreas o departamentos de la organización. En este sentido, un indicador de evaluación se puede utilizar para medir el desempeño global del colaborador. A continuación, se conocerán las características más representativas de estos: 
 
 
-    .titulo-sexto.color-acento-botones.mb-4
+    .titulo-sexto.color-secundario.mb-4
       span Características de indicadores de desempeño
 
     .row.align-items-center.tarjeta-des.mb-5

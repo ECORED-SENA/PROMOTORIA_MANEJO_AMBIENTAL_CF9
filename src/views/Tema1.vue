@@ -164,7 +164,7 @@
 
     p.mb-5 Así mismo, existen diferentes tipos de planes de acción los cuales se representan en la siguiente tabla: 
 
-    .titulo-sexto.color-acento-botones
+    .titulo-sexto.color-secundario
       span Tipos de planes de acción
 
     .tabla-a.color-primario
