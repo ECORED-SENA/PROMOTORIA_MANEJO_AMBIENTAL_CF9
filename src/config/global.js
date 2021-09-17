@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'En el componente se abordan temas que permiten la evaluación de las capacidades adquiridas, la manera de evaluarlas, las medidas a tomar con los resultados y la estructuración de planes de mejora para un restablecimiento en el funcionamiento de los procesos dentro de las organizaciones.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.jpg'),
   },
   menuPrincipal: {
     menu: [
