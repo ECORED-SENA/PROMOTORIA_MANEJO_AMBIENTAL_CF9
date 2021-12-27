@@ -63,7 +63,7 @@
     Separador
 
     #2-2.titulo-segundo
-      h2 2.2 Estrategia
+      h2 2.2 Metas
 
     p.mb-5 En los planes de mejora, las metas hacen referencia a las acciones finales que se deben llevar a cabo para el cumplimiento de la estrategia. A continuación, en la siguiente figura se podrá conocer los pasos establecidos: 
 
